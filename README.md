@@ -22,7 +22,7 @@ git clone [remote_url]
 链接可以选择 **`HTTPS URL`** ，**`SSH URL`** ，此处以 **`HTTPS URL`** 链接 **`https://github.com/yankils/hello-world.git`** 为例：
 ```
 $ git clone https://github.com/yankils/hello-world.git
-Cloning into 'ello-world&'...
+Cloning into 'hello-world&'...
 remote: Enumerating objects: 242, done.
 remote: Total 242 (delta 0), reused 0 (delta 0), pack-reused 242 eceiving object
 Receiving objects:  54% (131/242)
